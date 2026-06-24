@@ -8,5 +8,5 @@ he in-memory database is seeded automatically
 
 
 Questions:
-How many parking spaces should the car park have? (I defaulted to 10.)
-Should VehicleReg matching be case-insensitive? (e.g. "ab12 xyz" vs "AB12 XYZ")
+How many parking spaces should the car park have?
+Should VehicleReg matching be case-insensitive? 
