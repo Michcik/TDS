@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TDS.DATA\TDS.DATA.csproj" />
+    <ProjectReference Include="..\TDS.MODELS\TDS.MODELS.csproj" />
+  </ItemGroup>
+
+</Project>

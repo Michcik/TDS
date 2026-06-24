@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="ReadMe.txt" />
+  </Folder>
+  <Project Path="TDS.API/TDS.API.csproj" />
+  <Project Path="TDS.CORE/TDS.CORE.csproj" />
+  <Project Path="TDS.DATA/TDS.DATA.csproj" />
+  <Project Path="TDS.MODELS/TDS.MODELS.csproj" />
+  <Project Path="TDS.TESTS/TDS.TESTS.csproj" />
+</Solution>
